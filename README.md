@@ -15,6 +15,20 @@
 
 Segue abaixo a documentação de como rodar o app em ambiente de desenvolvimento.
 
+* Após clonar o repositório, precisa ter um terminal e dar o comando abaixo para instalar todas as dependências:
+
+```
+npm intall
+```
+
+* Assim, para rodar basta digitar o seguinte comando, para rodar o app:
+
+```
+npm start
+```
+
+> Por fim, basta abrir em um simulador de sua prefeência ou em um aparelho **mobile** o app *Expo*, utilizando o QR Code disponibilizado no terminal.
+
 ### Tecnologias utilizadas: 🖥️
 
 *Mobile*
