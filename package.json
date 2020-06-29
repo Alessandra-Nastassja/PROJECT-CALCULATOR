@@ -1,5 +1,7 @@
 {
   "main": "node_modules/expo/AppEntry.js",
+  "version": "1.0.0",
+  "description": "Desenvolvimento de um app de calculadora",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
@@ -7,6 +9,7 @@
     "web": "expo start --web",
     "eject": "expo eject"
   },
+  "author": "Alessandra Nastassja",
   "dependencies": {
     "expo": "~37.0.3",
     "react": "~16.9.0",
