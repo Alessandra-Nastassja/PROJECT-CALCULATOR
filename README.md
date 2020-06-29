@@ -15,15 +15,15 @@
 
 Segue abaixo a documentação de como rodar o app em ambiente de desenvolvimento.
 
-* Após clonar o repositório, é necessário ter um terminal para rodar o projeto. 
+* Após **clonar** o repositório, é necessário ter um terminal para rodar o projeto. 
 
-* Para instalar as dependências, digite o comando abaixo:
+* Para **instalar** as dependências, digite o comando abaixo:
 
 ```
 npm intall
 ```
 
-* Assim, para rodar o app. Basta digitar o seguinte comando:
+* Assim, para **rodar** o app. Basta digitar o seguinte comando:
 
 ```
 npm start
@@ -35,9 +35,9 @@ npm start
 
 *Mobile*
 
-* React Native
+* [React Native](https://reactnative.dev/)
 * React Hooks
-* Expo
+* [Expo](https://expo.io/)
 
 *****
 ## Resultado: :heavy_check_mark:
