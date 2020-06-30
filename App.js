@@ -33,7 +33,8 @@ export default function App() {
     const currentValue = cleaningDisplay ? '' : displayValue;
 
     // Irá concatenar os valores digitados
-    const displayValues = currentValue + n
+    const displayValues = currentValue + n;
+    
     setDisplayValue(displayValues)
     setClearDisplay(false)
 
@@ -42,7 +43,7 @@ export default function App() {
       const newValue = parseFloat(displayValue)
 
       const valuesCurrent = [...values]
-
+      
       valuesCurrent[current] = newValue
 
       setValues(valuesCurrent)
@@ -66,7 +67,7 @@ export default function App() {
     } else {
       const equals = operation === '='
       const currentValue = [...values]
-      
+
       try {
         // Realiza o parse do número, além de fazer a operação
         currentValue[0] = eval(`${currentValue[0]} ${operate} ${currentValue[1]}`)
