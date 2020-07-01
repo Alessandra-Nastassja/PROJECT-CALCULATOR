@@ -1,5 +1,5 @@
 import React from 'react';
-import { StyleSheet, Text, Dimensions, TouchableHighlight } from 'react-native';
+import { StyleSheet, Text, Dimensions, TouchableOpacity } from 'react-native';
 
 const Button = ({ label, double, triple, operation, onPress }) => {
     const stylesButton = [styles.button];
@@ -9,9 +9,9 @@ const Button = ({ label, double, triple, operation, onPress }) => {
     operation && stylesButton.push(styles.operationButton)
 
     return (
-        <TouchableHighlight onPress={() => onPress(label)}>
+        <TouchableOpacity onPress={() => onPress(label)}>
             <Text style={stylesButton}>{label}</Text>
-        </TouchableHighlight>
+        </TouchableOpacity>
     );
 }
 
@@ -25,11 +25,14 @@ const styles = StyleSheet.create({
         backgroundColor: '#f0f0f0',
         textAlign: 'center',
         borderWidth: 1,
-        borderColor: '#888',
+        borderColor: '#fff',
+        color: '#555',
+        borderRadius: 25,
+        marginTop: 5
     },
-    operationButton:{
+    operationButton: {
         color: '#fff',
-        backgroundColor: '#fa8231'
+        backgroundColor: '#01bb92'
     },
     buttonDouble: {
         width: (Dimensions.get('window').width / 4) * 2,
