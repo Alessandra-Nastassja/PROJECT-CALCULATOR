@@ -43,4 +43,4 @@ npm start
 ## Resultado: :heavy_check_mark:
 O layout foi inspirado na calculadora do Mac.
 
-<img src="https://user-images.githubusercontent.com/27302446/85347915-60e46700-b4d0-11ea-9dbd-3635f06dcd9a.jpg" width="200px"></img>
+<img src="11f373f7-5fef-40aa-8bd3-dfe106c1d65b](https://user-images.githubusercontent.com/27302446/86191985-d2e72c80-bb1e-11ea-97f9-24329bbd8f10.gif" width="200px"></img>
