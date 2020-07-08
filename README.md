@@ -1,4 +1,10 @@
-<p align="center">Projeto destinado para o desenvolvimento de uma calculadora simples</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/27302446/86910117-905dbb00-c0ef-11ea-8b19-8498cc7768a3.png" />
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/27302446/86910117-905dbb00-c0ef-11ea-8b19-8498cc7768a3.png" />
+  Projeto destinado para o desenvolvimento de uma calculadora simples
+</p>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/repo-size/Alessandra-Nastassja/PROJECT-CALCULATOR?color=%2301bb92">
