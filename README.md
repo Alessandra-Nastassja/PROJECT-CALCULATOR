@@ -2,7 +2,6 @@
   <img src="https://user-images.githubusercontent.com/27302446/86910117-905dbb00-c0ef-11ea-8b19-8498cc7768a3.png" />
 </p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/27302446/86910117-905dbb00-c0ef-11ea-8b19-8498cc7768a3.png" />
   Projeto destinado para o desenvolvimento de uma calculadora simples
 </p>
 
