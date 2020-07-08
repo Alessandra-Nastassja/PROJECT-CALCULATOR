@@ -44,8 +44,8 @@ npm start
 * React Hooks
 * [Expo](https://expo.io/)
 
-### Baixando o app: 📱⬇️
-Para baixar basta clicar [aqui](https://expo.io/artifacts/962e8581-49de-45ac-b078-76dde6459c94).
+### Demo: 📱⬇️
+Veja o demo [aqui](https://snack.expo.io/@git/github.com/Alessandra-Nastassja/PROJECT-CALCULATOR)
 
 *****
 ## Resultado: :heavy_check_mark:
