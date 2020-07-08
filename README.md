@@ -51,4 +51,4 @@ npm start
 O layout foi inspirado na calculadora do Mac.
 
 <img src="https://user-images.githubusercontent.com/27302446/86911134-2a723300-c0f1-11ea-8439-a92adb260233.jpg" width="200px"></img>
-<img src="https://user-images.githubusercontent.com/27302446/86911136-2ba36000-c0f1-11ea-8cd9-585ccc047fce.jpg" width="200px"></img>
+<img src="https://user-images.githubusercontent.com/27302446/86980667-d13ee980-c15a-11ea-800c-d8f9224936a0.gif" width="175px"></img>
