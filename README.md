@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/27302446/86910117-905dbb00-c0ef-11ea-8b19-8498cc7768a3.png" />
 </p>
+<h1 align="center">Calculator</h1>
 <p align="center">
   <a href="https://snack.expo.io/@git/github.com/Alessandra-Nastassja/PROJECT-CALCULATOR">Demo</a>
 </p>
